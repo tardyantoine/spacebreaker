@@ -12,7 +12,10 @@ The game is played against a friend or the AI. The goal is to bounce the ball wi
 
 To play against a friend, place yourself on each end of the DS and use the left and right triggers with your thumbs!
 
-TODO: add images
+![Image of SB1] (https://github.com/tardyantoine/spacebreaker/blob/master/sb1.JPG)
+![Image of SB2] (https://github.com/tardyantoine/spacebreaker/blob/master/sb2.JPG)
+![Image of SB3] (https://github.com/tardyantoine/spacebreaker/blob/master/sb3.JPG)
+![Image of SB4] (https://github.com/tardyantoine/spacebreaker/blob/master/sb4.JPG)
 
 Build
 ------
